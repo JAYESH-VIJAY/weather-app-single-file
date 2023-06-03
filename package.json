@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "chalk": "^5.2.0",
+    "node-fetch": "^2.6.11",
+    "postman-request": "^2.88.1-postman.32",
+    "request": "^2.88.2",
+    "yargs": "^17.7.2"
+  },
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "this is a weather application created by jayesh vijay",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "application",
+    "wheather",
+    "app",
+    "using",
+    "node",
+    "node-js",
+    "react-js",
+    "angular",
+    "next-js"
+  ],
+  "author": "jayesh vijay",
+  "license": "ISC"
+}
